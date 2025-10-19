@@ -53,13 +53,8 @@ The **Adam optimizer** combined the benefits of momentum and adaptive learning r
 
 ---
 
-## 📈 Model Performance
-- Training and validation accuracy/loss were tracked across epochs.
-- After 4 epochs, the model reached **strong accuracy** on both training and test sets, demonstrating that CNNs effectively learn spam-related word patterns.
-
----
-
 ## 📊 Results Visualization
+![Loss and Accuracy per Epoch](https://github.com/minhhai1208/spamEmailDetection/blob/main/Loss%20and%20Accuracy%20per%20epoch.png)
 Training and validation performance were visualized using Matplotlib:
 
 - **Left:** Training vs. Validation Accuracy  
